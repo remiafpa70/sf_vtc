@@ -1,0 +1,11 @@
+body{
+    /* background-color: red; */
+}
+
+.deconnection{
+    color: white;
+}
+
+ul li a .nv-link{
+    color: red !important;
+}
